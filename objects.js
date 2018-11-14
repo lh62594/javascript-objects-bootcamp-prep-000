@@ -1,6 +1,6 @@
 var playlist = {
   beyonce: "halo",
-  avril lavigne: "sk8ter boi"
+  avril: "sk8ter boi"
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
